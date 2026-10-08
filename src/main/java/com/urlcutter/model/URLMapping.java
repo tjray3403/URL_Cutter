@@ -1,10 +1,20 @@
 package com.urlcutter.model;
 
+import jakarta.persistence.Index;
+import jakarta.persistence.Table;
+import jakarta.persistence.Id;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+
+import java.time.LocalDateTime;
+
 @Entity
 @Table(name = "url_mappings", indexes = {
     @Index(name = "idx_short_code", columnList = "shortCode", unique = true)
 })
-class URLMapping {
+public class UrlMapping {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
