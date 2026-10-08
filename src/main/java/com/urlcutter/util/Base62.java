@@ -1,4 +1,4 @@
-package main.java.com.urlcutter.util;
+package com.urlcutter.util;
 
 public class Base62 { 
     public static final String BASE62 = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
