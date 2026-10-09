@@ -7,6 +7,10 @@ import org.springframework.scheduling.annotation.EnableAsync;
 @SpringBootApplication
 @EnableAsync
 public class UrlCutterApplication {
+    public UrlCutterApplication() {
+        super();
+    }
+
     public static void main(String[] args) {
         SpringApplication.run(UrlCutterApplication.class, args);
     }

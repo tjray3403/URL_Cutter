@@ -2,6 +2,7 @@ package com.urlcutter.service;
 
 import com.urlcutter.util.Base62;
 import org.springframework.data.redis.core.StringRedisTemplate;
+import org.springframework.dao.DataAccessException;
 import org.springframework.stereotype.Service;
 
 import java.util.concurrent.atomic.AtomicLong;
@@ -23,14 +24,23 @@ public class IdGeneratorService {
         if (currentId.get() >= maxId.get()) {
             fetchNextRange();
         }
+        if (currentId.get() >= maxId.get()) {
+            throw new IllegalStateException("Unable to allocate a short URL ID from Redis");
+        }
         return Base62.encode(currentId.getAndIncrement());
     }
 
     private void fetchNextRange() {
-        Long nextRangeEnd = redisTemplate.opsForValue().increment(REDIS_COUNTER_KEY, RANGE_SIZE);
-        if (nextRangeEnd != null) {
-            maxId.set(nextRangeEnd);
-            currentId.set(nextRangeEnd - RANGE_SIZE + 1);
+        final Long nextRangeEnd;
+        try {
+            nextRangeEnd = redisTemplate.opsForValue().increment(REDIS_COUNTER_KEY, RANGE_SIZE);
+        } catch (DataAccessException exception) {
+            throw new IllegalStateException("Unable to allocate a short URL ID from Redis", exception);
         }
+        if (nextRangeEnd == null || nextRangeEnd < RANGE_SIZE) {
+            throw new IllegalStateException("Redis returned an invalid short URL ID range");
+        }
+        maxId.set(nextRangeEnd + 1);
+        currentId.set(nextRangeEnd - RANGE_SIZE + 1);
     }
 }
