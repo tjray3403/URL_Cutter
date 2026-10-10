@@ -10,7 +10,6 @@ import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-//import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -20,10 +19,14 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
 import java.net.URI;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 @RestController
 @RequestMapping
 public class UrlController {
+
+    private static final Logger logger = LoggerFactory.getLogger(UrlController.class);
 
     private final UrlService urlService;
     private final String publicBaseUrl;
@@ -47,11 +50,16 @@ public class UrlController {
         }
     }
 
-    @GetMapping("/{shortCode}")
-    public ResponseEntity<Void> redirectToLongUrl(@PathVariable String shortCode) {
+    @GetMapping("/{shortCode:[A-Za-z0-9_-]{1,20}}")
+    public ResponseEntity<Void> redirectToLongUrl(@PathVariable("shortCode") String shortCode) {
         return urlService.getLongUrl(shortCode)
                 .map(longUrl -> {
-                    urlService.recordClickAsync(shortCode);
+                    // Click tracking is best-effort; it must never prevent the redirect.
+                    try {
+                        urlService.recordClickAsync(shortCode);
+                    } catch (RuntimeException exception) {
+                        logger.warn("Could not schedule click tracking for short code {}", shortCode, exception);
+                    }
                     return ResponseEntity.status(HttpStatus.FOUND)
                             .header(HttpHeaders.LOCATION, URI.create(longUrl).toASCIIString())
                             .<Void>build();
