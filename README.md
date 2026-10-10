@@ -177,8 +177,8 @@ Start them again later with `docker compose up -d`. Avoid `docker compose down -
 | Variable | Default | Purpose |
 | --- | --- | --- |
 | `URL_CUTTER_DB_URL` | `jdbc:postgresql://localhost:5433/url_cutter_db` | JDBC connection URL |
-| `URL_CUTTER_DB_USERNAME` | `tristan` | PostgreSQL username |
-| `URL_CUTTER_DB_PASSWORD` | `raypassword` | Local development fallback; set a private value in `.env` |
+| `URL_CUTTER_DB_USERNAME` | `*****` | PostgreSQL username |
+| `URL_CUTTER_DB_PASSWORD` | `******` | Local development fallback; set a private value in `.env` |
 | `REDIS_HOST` | `localhost` | Redis host as seen by the Java app |
 | `REDIS_PORT` | `6379` | Redis port as seen by the Java app |
 | `PUBLIC_BASE_URL` | `http://localhost:8080` | Base address returned in generated short URLs |
