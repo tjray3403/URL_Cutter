@@ -1,0 +1,443 @@
+2026.10.09 15:26:42 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter' for client Visual Studio Code 1.141.0.
+2026.10.09 15:26:42 INFO  Memory monitor started
+2026.10.09 15:26:47 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 15:26:50 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:27:11 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+2026.10.09 15:27:11 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:27:11 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:27:14 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:27:37 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:27:38 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:08 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:13 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:23 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:27 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:27 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:31 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:32 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:32 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:28:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2026.10.09 15:28:32 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:28:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:10 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:11 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:11 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:29:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2026.10.09 15:29:11 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:11 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:13 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:19 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:29:20 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:29:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2026.10.09 15:29:19 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:29:19 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:29:24 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:29:26 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:29:28 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+2026.10.09 15:29:28 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:28 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:29:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+2026.10.09 15:29:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:29:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+Oct 09, 2026 3:29:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+2026.10.09 15:29:31 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:29:56 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:30:07 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:30:07 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:33:46 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:33:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.09 15:36:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:36:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+2026.10.09 15:36:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:23 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:23 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:23 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:23 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:25 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:25 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:36:44 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:20 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:20 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:20 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+2026.10.09 15:38:20 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:20 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:22 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:22 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+2026.10.09 15:38:22 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:22 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:28 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:28 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 89
+2026.10.09 15:38:28 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:28 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 97
+2026.10.09 15:38:30 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:30 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:30 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:30 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:32 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:33 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:33 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:33 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:33 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:33 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:37 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:38 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:38:40 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:40 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:40 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:41 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java
+2026.10.09 15:38:40 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:43 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 121
+2026.10.09 15:38:43 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:43 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:45 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 124
+2026.10.09 15:38:45 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 127
+2026.10.09 15:38:47 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:47 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 128
+Oct 09, 2026 3:38:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 130
+2026.10.09 15:38:47 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:50 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 126
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 135
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+Oct 09, 2026 3:38:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 136
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 138
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 137
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 139
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 141
+2026.10.09 15:38:51 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+Oct 09, 2026 3:38:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 140
+2026.10.09 15:52:28 INFO  no build target found for c:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:52:48 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:52:49 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:57:24 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\service\UrlService.java. Using fallback presentation compiler.
+2026.10.09 15:57:27 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 15:57:27 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+2026.10.09 16:01:36 INFO  Tracing is disabled for protocol LSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at c:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\.metals\lsp.trace.json or C:\Users\Tjray\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2026.10.09 16:01:55 INFO  logging to files C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\.metals\metals.log
+2026.10.09 16:01:55 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter' for client Visual Studio Code 1.141.0.
+2026.10.09 16:01:55 INFO  time: initialize in 0.15s
+2026.10.09 16:01:56 INFO  Memory monitor started
+2026.10.09 16:02:12 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 16:02:14 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:02:28 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:03:19 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:04:53 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:08:49 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:08:50 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+2026.10.09 16:08:50 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:13:15 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:13:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+Oct 09, 2026 4:13:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 09, 2026 4:13:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.09 16:14:00 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:00 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:02 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:05 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:05 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+Oct 09, 2026 4:14:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2026.10.09 16:14:07 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:08 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:08 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+Oct 09, 2026 4:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+Oct 09, 2026 4:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Oct 09, 2026 4:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2026.10.09 16:14:08 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:08 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+Oct 09, 2026 4:14:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+Oct 09, 2026 4:14:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+Oct 09, 2026 4:14:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+Oct 09, 2026 4:14:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2026.10.09 16:14:10 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:10 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:12 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:12 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:12 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:14 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:14 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:16 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java
+2026.10.09 16:14:16 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:16 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+2026.10.09 16:14:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java. Using fallback presentation compiler.
+Oct 09, 2026 4:14:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2026.10.09 16:14:26 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+Oct 09, 2026 4:14:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+Oct 09, 2026 4:14:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+2026.10.09 16:14:26 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\controller\UrlController.java
+2026.10.09 16:14:26 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+2026.10.09 16:14:26 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:14:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:14:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:14:30 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:14:31 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:15:10 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:16:03 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:16:11 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:16:11 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+Oct 09, 2026 4:16:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 74
+2026.10.09 16:16:12 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:16:13 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:16:13 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:16:16 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:20:55 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:20:58 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:21:01 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:21:01 INFO  Created report: Optional[file:///C:/Users/Tjray/OneDrive/Desktop/Coding/Java/url_cutter/src/main/java/com/urlcutter/UrlCutterApplication.java]
+2026.10.09 16:21:01 INFO  empty definition using pc, found symbol in pc: _empty_/SpringBootApplication# (full report at: "C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\.metals\.reports\metals-full\2026-10-09\r_empty-definition_16-21-01-846.md")
+2026.10.09 16:22:08 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter' for client Visual Studio Code 1.141.0.
+2026.10.09 16:22:08 INFO  Memory monitor started
+2026.10.09 16:22:16 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 16:22:18 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:22:22 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:22:29 INFO  running 'C:\Users\Tjray\AppData\Local\Temp\metals5108460708305686423\gradlew.bat --stacktrace --console=plain --init-script C:\Users\Tjray\AppData\Local\Temp\metals5108460708305686423\init-script.gradle bloopInstall'
+2026.10.09 16:22:43 INFO  Starting a Gradle Daemon (subsequent builds will be faster)
+2026.10.09 16:23:16 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:23:29 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:23:46 INFO  
+2026.10.09 16:23:46 INFO  > Task :configureBloopInstall
+2026.10.09 16:23:46 INFO  Directory 'C:\Program Files\Java\jdk-25.0.4.1' (Windows Registry) used for java installations does not exist
+2026.10.09 16:24:10 INFO  
+2026.10.09 16:24:10 INFO  > Task :bloopInstall
+2026.10.09 16:24:10 INFO  
+2026.10.09 16:24:10 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.
+2026.10.09 16:24:10 INFO  
+2026.10.09 16:24:10 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2026.10.09 16:24:10 INFO  
+2026.10.09 16:24:10 INFO  See https://docs.gradle.org/7.5/userguide/command_line_interface.html#sec:command_line_warnings
+2026.10.09 16:24:10 INFO  
+2026.10.09 16:24:10 INFO  BUILD SUCCESSFUL in 1m 35s
+2026.10.09 16:24:10 INFO  2 actionable tasks: 2 executed
+2026.10.09 16:24:11 INFO  time: ran 'gradle bloopInstall' in 1m40s
+2026.10.09 16:24:11 INFO  Attempting to connect to the build server...
+2026.10.09 16:24:11 INFO  Found a Bloop server running
+2026.10.09 16:24:12 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\.metals\bsp.trace.json or C:\Users\Tjray\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.09 16:24:12 INFO  time: Connected to build server in 1.52s
+2026.10.09 16:24:12 INFO  Connected to Build server: Bloop v2.1.2
+2026.10.09 16:24:14 INFO  time: Imported build in 1.1s
+2026.10.09 16:24:32 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 16:25:42 INFO  time: indexed workspace in 1m28s
+2026.10.09 16:25:45 INFO  compiling url_cutter (7 java sources)
+2026.10.09 16:25:49 WARN  Unexpected javac output: error: invalid target release: 21
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.10.09 16:25:49 WARN  javac exited with exit code 2
+2026.10.09 16:25:49 INFO  time: compiled url_cutter in 4.68s
+Oct 09, 2026 4:32:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 09, 2026 4:32:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 09, 2026 4:38:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Oct 09, 2026 4:38:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Oct 09, 2026 4:38:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Oct 09, 2026 4:38:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+Oct 09, 2026 4:38:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2026.10.09 16:41:04 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter' for client Visual Studio Code 1.141.0.
+2026.10.09 16:41:05 INFO  time: initialize in 0.44s
+2026.10.09 16:41:05 INFO  Memory monitor started
+2026.10.09 16:41:34 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 16:41:39 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:41:46 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 16:41:48 INFO  Attempting to connect to the build server...
+2026.10.09 16:41:53 INFO  Found a Bloop server running
+2026.10.09 16:41:55 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\.metals\bsp.trace.json or C:\Users\Tjray\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.09 16:41:57 INFO  time: Connected to build server in 9.61s
+2026.10.09 16:41:57 INFO  Connected to Build server: Bloop v2.1.2
+2026.10.09 16:42:10 INFO  time: Imported build in 4.29s
+2026.10.09 16:42:44 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 16:43:26 INFO  time: indexed workspace in 1m15s
+2026.10.09 16:43:30 INFO  compiling url_cutter (7 java sources)
+2026.10.09 16:43:42 WARN  Unexpected javac output: error: invalid target release: 21
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.10.09 16:43:42 WARN  javac exited with exit code 2
+2026.10.09 16:43:42 INFO  time: compiled url_cutter in 11s
+Oct 09, 2026 4:47:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Oct 09, 2026 4:53:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Oct 09, 2026 4:56:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.09 17:09:00 INFO  compiling url_cutter (7 java sources)
+2026.10.09 17:09:04 WARN  Unexpected javac output: error: invalid target release: 21
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.10.09 17:09:04 WARN  javac exited with exit code 2
+2026.10.09 17:09:04 INFO  time: compiled url_cutter in 3.5s
+2026.10.09 17:11:38 INFO  compiling url_cutter (7 java sources)
+2026.10.09 17:11:51 WARN  Unexpected javac output: error: invalid target release: 21
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.10.09 17:11:51 WARN  javac exited with exit code 2
+2026.10.09 17:11:51 INFO  time: compiled url_cutter in 13s
+2026.10.09 17:11:51 INFO  compiling url_cutter (7 java sources)
+2026.10.09 17:11:55 WARN  Unexpected javac output: error: invalid target release: 21
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.10.09 17:11:55 WARN  javac exited with exit code 2
+2026.10.09 17:11:55 INFO  time: compiled url_cutter in 2.88s
+Oct 09, 2026 5:11:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+Oct 09, 2026 5:20:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+Oct 09, 2026 5:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+2026.10.09 17:34:55 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter' for client Visual Studio Code 1.141.0.
+2026.10.09 17:34:55 INFO  Memory monitor started
+2026.10.09 17:35:11 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 17:35:12 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 17:35:16 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 17:35:16 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 17:35:18 INFO  Attempting to connect to the build server...
+2026.10.09 17:35:18 INFO  Found a Bloop server running
+2026.10.09 17:35:21 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\.metals\bsp.trace.json or C:\Users\Tjray\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.09 17:35:22 INFO  time: Connected to build server in 4.21s
+2026.10.09 17:35:21 INFO  Connected to Build server: Bloop v2.1.2
+Oct 09, 2026 5:35:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.10.09 17:35:25 WARN  no build target for: C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java
+2026.10.09 17:35:25 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 17:35:26 INFO  time: Imported build in 0.2s
+Oct 09, 2026 5:35:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Oct 09, 2026 5:35:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.10.09 17:36:09 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 17:36:52 INFO  time: indexed workspace in 1m25s
+2026.10.09 17:36:53 INFO  compiling url_cutter (7 java sources)
+2026.10.09 17:37:02 WARN  Unexpected javac output: error: invalid target release: 21
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.10.09 17:37:02 WARN  javac exited with exit code 2
+2026.10.09 17:37:02 INFO  time: compiled url_cutter in 8.67s
+Oct 09, 2026 5:44:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Oct 09, 2026 5:45:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+Oct 09, 2026 5:45:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+Oct 09, 2026 5:45:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Oct 09, 2026 5:45:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2026.10.09 17:59:44 INFO  compiling url_cutter (7 java sources)
+2026.10.09 17:59:50 WARN  Unexpected javac output: error: invalid target release: 21
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.10.09 17:59:50 WARN  javac exited with exit code 2
+2026.10.09 17:59:50 INFO  time: compiled url_cutter in 6.36s
+Oct 09, 2026 6:01:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+Oct 09, 2026 6:02:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+Oct 09, 2026 6:02:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Oct 09, 2026 6:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+Oct 09, 2026 6:02:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+Oct 09, 2026 6:02:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+Oct 09, 2026 6:03:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+Oct 09, 2026 6:03:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 77
+Oct 09, 2026 6:03:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+Oct 09, 2026 6:03:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 87
+Oct 09, 2026 6:03:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+Oct 09, 2026 6:45:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 09, 2026 6:51:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.09 18:55:07 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter' for client Visual Studio Code 1.141.0.
+2026.10.09 18:55:08 INFO  time: initialize in 0.18s
+2026.10.09 18:55:07 INFO  Memory monitor started
+2026.10.09 18:55:17 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 18:55:19 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 18:55:21 INFO  no build target found for C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\src\main\java\com\urlcutter\UrlCutterApplication.java. Using fallback presentation compiler.
+2026.10.09 18:55:21 INFO  Attempting to connect to the build server...
+2026.10.09 18:55:21 INFO  Found a Bloop server running
+2026.10.09 18:55:23 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\Tjray\OneDrive\Desktop\Coding\Java\url_cutter\.metals\bsp.trace.json or C:\Users\Tjray\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.09 18:55:24 INFO  time: Connected to build server in 1.63s
+2026.10.09 18:55:23 INFO  Connected to Build server: Bloop v2.1.2
+2026.10.09 18:55:27 INFO  time: Imported build in 0.29s
+2026.10.09 18:55:50 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 18:56:07 INFO  time: indexed workspace in 40s
+2026.10.09 18:56:07 INFO  compiling url_cutter (7 java sources)
+2026.10.09 18:56:09 WARN  Unexpected javac output: error: invalid target release: 21
+Usage: javac <options> <source files>
+use --help for a list of possible options.
+2026.10.09 18:56:09 WARN  javac exited with exit code 2
+2026.10.09 18:56:09 INFO  time: compiled url_cutter in 1.28s

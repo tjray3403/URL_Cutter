@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Cutter - Fast & Free URL Shortener</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background-color: #0f172a; color: #f8fafc; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
+        .card { background: #1e293b; padding: 2.5rem; border-radius: 12px; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5); width: 100%; max-width: 480px; }
+        h1 { margin-top: 0; font-size: 1.8rem; color: #38bdf8; text-align: center; }
+        label { display: block; margin-top: 1rem; font-size: 0.875rem; color: #94a3b8; }
+        input { width: 100%; padding: 0.75rem; margin-top: 0.25rem; border-radius: 6px; border: 1px solid #334155; background: #0f172a; color: #fff; box-sizing: border-box; }
+        button { width: 100%; padding: 0.75rem; margin-top: 1.5rem; border-radius: 6px; border: none; background: #0284c7; color: white; font-weight: bold; cursor: pointer; transition: background 0.2s; }
+        button:hover { background: #0369a1; }
+        .result { margin-top: 1.5rem; padding: 1rem; border-radius: 6px; background: #0f172a; word-break: break-all; display: none; }
+        .error { color: #f87171; }
+        .success { color: #4ade80; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>✂️ URL Cutter</h1>
+    <form id="shortenForm">
+        <label for="longUrl">Destination URL *</label>
+        <input type="url" id="longUrl" placeholder="https://example.com/very-long-link" required>
+
+        <label for="customAlias">Custom Alias (Optional)</label>
+        <input type="text" id="customAlias" placeholder="my-custom-link">
+
+        <label for="ttlDays">Expiration (Days, Optional)</label>
+        <input type="number" id="ttlDays" placeholder="30" min="1">
+
+        <button type="submit">Shorten URL</button>
+    </form>
+
+    <div id="result" class="result"></div>
+</div>
+
+<script>
+    document.getElementById('shortenForm').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const resultDiv = document.getElementById('result');
+        resultDiv.replaceChildren();
+        resultDiv.style.display = 'none';
+
+        const payload = {
+            longUrl: document.getElementById('longUrl').value,
+            customAlias: document.getElementById('customAlias').value || null,
+            ttlDays: document.getElementById('ttlDays').value ? parseInt(document.getElementById('ttlDays').value) : null
+        };
+
+        try {
+            const response = await fetch('/api/urls', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            const data = await response.json().catch(() => ({}));
+
+            if (response.ok) {
+                resultDiv.className = 'result success';
+                const link = document.createElement('a');
+                link.href = `/${encodeURIComponent(data.shortCode)}`;
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                link.style.color = '#38bdf8';
+                link.textContent = data.shortUrl;
+                resultDiv.append('Short URL Created:', document.createElement('br'), link);
+            } else {
+                resultDiv.className = 'result error';
+                resultDiv.textContent = `Error: ${data.detail || data.error || 'Failed to shorten URL'}`;
+            }
+            resultDiv.style.display = 'block';
+        } catch (err) {
+            resultDiv.className = 'result error';
+            resultDiv.innerHTML = 'An unexpected error occurred.';
+            resultDiv.style.display = 'block';
+        }
+    });
+</script>
+
+</body>
+</html>

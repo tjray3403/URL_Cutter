@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch URL Cutter",
+            "request": "launch",
+            "mainClass": "com.urlcutter.UrlCutterApplication",
+            "cwd": "${workspaceFolder}",
+            "envFile": "${workspaceFolder}/.env",
+            "env": {
+                "SERVER_ERROR_INCLUDE_MESSAGE": "always",
+                "SERVER_ERROR_INCLUDE_STACKTRACE": "always"
+            },
+            "console": "integratedTerminal"
+        }
+    ]
+}
